@@ -1,7 +1,7 @@
 # cltv_via_bg-nbd-gammagamma
 Predicting Customer Life Time Value (CLTV) via Beta Geometric / Negative Binominal Distribution (BG/NBD) and Gamma Gamma Model
 
-Attribute Information:
+Attribute Information:\n
 
 InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
 StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
